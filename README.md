@@ -7,7 +7,7 @@
 <strong>Faculty of Computers and Information, Assiut University</strong><br/>
 	Bachelor of Computers and informatics | Major: Computer Science | Grade: very good. <br/>
 	
-      </h3>
+ </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> 
