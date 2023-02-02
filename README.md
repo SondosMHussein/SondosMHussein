@@ -26,8 +26,8 @@ sondos-hussien-4942a0210
 ### Kaggle-Competitions
 
 ### Machine Learning (ML):
-
-
+- [User Knowledge Modeling](https://github.com/SondosMHussein/User-Knowledge-Modeling)
+- [Car evaluation and Wine Classification](https://github.com/SondosMHussein/Car-evaluation-and-Wine-Classification)
 ### Natural Language Processing (NLP):
 
 
