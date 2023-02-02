@@ -21,10 +21,6 @@ sondos-hussien-4942a0210
 
 # Projects
 
-### Databases and Data Warehousing in Data Science :
-
-### Kaggle-Competitions
-
 ### Machine Learning (ML):
 - [User Knowledge Modeling](https://github.com/SondosMHussein/User-Knowledge-Modeling)
 - [Car evaluation and Wine Classification](https://github.com/SondosMHussein/Car-evaluation-and-Wine-Classification)
@@ -44,5 +40,6 @@ sondos-hussien-4942a0210
 - [Applying Regularization and Data Augmentation on CNN Model to Image Classification using Leaf counting dataset](https://github.com/SondosMHussein/Applying-Regularization-and-Data-Augmentation-on-CNN-Model-to-Image-Classification-using-Leaf-counti)
 - [Image Classification using Deep learning models using CUB-200-2011 dataset](https://github.com/SondosMHussein/Image-Classification-using-Deep-learning-models-using-CUB-200-2011-dataset.)
 - [Makeup Classification](https://github.com/SondosMHussein/Makeup-Classification-)
+	
 ### Reinforcement Learning (RL):
 
