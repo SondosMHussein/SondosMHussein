@@ -29,8 +29,10 @@ sondos-hussien-4942a0210
 - [User Knowledge Modeling](https://github.com/SondosMHussein/User-Knowledge-Modeling)
 - [Car evaluation and Wine Classification](https://github.com/SondosMHussein/Car-evaluation-and-Wine-Classification)
 ### Natural Language Processing (NLP):
-
-
+- [TEXT CLASSIFICATION](https://github.com/SondosMHussein/TEXT_CLASSIFICATION)
+- [TEXT_CLUSTERING](https://github.com/SondosMHussein/TEXT_CLASSIFICATION](https://github.com/SondosMHussein/TEXT_CLUSTERING)
+- [Emotion based chat bot](https://github.com/SondosMHussein/Emotion_based_chat_bot)
+	
 ### Smart Cities :
 
 
