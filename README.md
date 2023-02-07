@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, My name's Sondos Mohamed Hussein Ali.</h1>
+<h1 align="center">Hello 👋, My name's Sondos Mohamed Hussein Ali.</h1>
 <div id="header" align="center">
   <img src=".\Images_pre\ML.jpg" width="250" style="border-radius:31%"/>
 </div>
