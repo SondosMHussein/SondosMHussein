@@ -30,7 +30,7 @@ sondos-hussien-4942a0210
 - [Emotion based chat bot](https://github.com/SondosMHussein/Emotion_based_chat_bot)
 	
 ### Smart Cities :
-
+- [Generating MCS tasks and user movement events](https://github.com/SondosMHussein/Generating-MCS-tasks-and-user-movement-events)
 
 ### GANs:
 
