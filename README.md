@@ -36,7 +36,7 @@ sondos-hussien-4942a0210
 - [Detecting 2 different anomalies are injected into the trajectory of the QBot](https://github.com/SondosMHussein/Detecting_Two_anomalies_are_injected_into_trajectory_of_The_QBOT)
 
 ### GANs:
-
+- [Fake tasks & CGAN](https://github.com/SondosMHussein/Fake_tasks_and_CGAN)
 
 ### Computer Vision (CV):
 - [Image Classification using Machine learning models](https://github.com/SondosMHussein/Image_Classification_using_Machine-learning-models)
