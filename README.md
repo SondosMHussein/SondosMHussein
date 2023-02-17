@@ -2,7 +2,7 @@
 <div id="header" align="center">
   <img src=".\Images_pre\ML.jpg" width="250" style="border-radius:31%"/>
 </div>
-<h3 align="center"> Machine learning Engineer | Data scientist | AI Master's Student at the University of Ottawa, Canada</h3>
+<h3 align="center"> Machine learning Engineer | Data scientist | Have a master degree in AI and data sciencs at the University of Ottawa, Canada</h3>
 <h3 align="center"> 
 <strong>Faculty of Computers and Information, Assiut University</strong><br/>
 	Bachelor of Computers and informatics | Major: Computer Science | Grade: very good. <br/>
