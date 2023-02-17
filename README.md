@@ -24,6 +24,8 @@ sondos-hussien-4942a0210
 ### Machine Learning (ML):
 - [User Knowledge Modeling](https://github.com/SondosMHussein/User-Knowledge-Modeling)
 - [Car evaluation and Wine Classification](https://github.com/SondosMHussein/Car-evaluation-and-Wine-Classification)
+- [Diabetic Predictions](https://github.com/SondosMHussein/Diabetic_Predictios)
+- [Bagging and boosting with SVM and Decision tree algorithms](https://github.com/SondosMHussein/Bagging_and_Boosting_With_SVM_and_DT_algorithms)
 ### Natural Language Processing (NLP):
 - [TEXT CLASSIFICATION](https://github.com/SondosMHussein/TEXT_CLASSIFICATION)
 - [TEXT CLUSTERING](https://github.com/SondosMHussein/TEXT_CLUSTERING)
