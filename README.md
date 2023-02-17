@@ -31,6 +31,8 @@ sondos-hussien-4942a0210
 	
 ### Smart Cities :
 - [Generating MCS tasks and user movement events](https://github.com/SondosMHussein/Generating-MCS-tasks-and-user-movement-events)
+- [NS3 network simulator](https://github.com/SondosMHussein/NS3_network_simulator)
+- [A federated learning environment with 20 clients and FashionMnist dataset](https://github.com/SondosMHussein/A_federated_Learning_Environment)
 
 ### GANs:
 
