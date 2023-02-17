@@ -26,6 +26,8 @@ sondos-hussien-4942a0210
 - [Car evaluation and Wine Classification](https://github.com/SondosMHussein/Car-evaluation-and-Wine-Classification)
 - [Diabetic Predictions](https://github.com/SondosMHussein/Diabetic_Predictios)
 - [Bagging and boosting with SVM and Decision tree algorithms](https://github.com/SondosMHussein/Bagging_and_Boosting_With_SVM_and_DT_algorithms)
+- [Network Attackers Classification](https://github.com/SondosMHussein/Network_Attackers_Classifications)
+	
 ### Natural Language Processing (NLP):
 - [TEXT CLASSIFICATION](https://github.com/SondosMHussein/TEXT_CLASSIFICATION)
 - [TEXT CLUSTERING](https://github.com/SondosMHussein/TEXT_CLUSTERING)
