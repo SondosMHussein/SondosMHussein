@@ -33,6 +33,7 @@ sondos-hussien-4942a0210
 - [Generating MCS tasks and user movement events](https://github.com/SondosMHussein/Generating-MCS-tasks-and-user-movement-events)
 - [NS3 network simulator](https://github.com/SondosMHussein/NS3_network_simulator)
 - [A federated learning environment with 20 clients and FashionMnist dataset](https://github.com/SondosMHussein/A_federated_Learning_Environment)
+- [Detecting 2 different anomalies are injected into the trajectory of the QBot](https://github.com/SondosMHussein/Detecting_Two_anomalies_are_injected_into_trajectory_of_The_QBOT)
 
 ### GANs:
 
