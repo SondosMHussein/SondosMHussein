@@ -53,5 +53,7 @@ sondos-hussien-4942a0210
 - [Image Classification using Deep learning models using CUB-200-2011 dataset](https://github.com/SondosMHussein/Image-Classification-using-Deep-learning-models-using-CUB-200-2011-dataset.)
 - [Makeup Classification](https://github.com/SondosMHussein/Makeup-Classification-)
 	
+### Cloud Computing :
+- [Applying Queries using Mongo DB & Cassandra](https://github.com/SondosMHussein/Mongo_DB_And_Cassandra)
 ### Reinforcement Learning (RL):
 
