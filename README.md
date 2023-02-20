@@ -2,10 +2,11 @@
 <div id="header" align="center">
   <img src=".\Images_pre\ML.jpg" width="250" style="border-radius:31%"/>
 </div>
-<h3 align="center"> Machine learning Engineer | Data scientist | Have a master degree in AI and data sciencs at the University of Ottawa, Canada</h3>
+<h3 align="center"> Machine learning Engineer | Data scientist | Have a master degree in AI and data science at the University of Ottawa, Canada</h3>
+
 <h3 align="center"> 
 <strong>Faculty of Computers and Information, Assiut University</strong><br/>
-	Bachelor of Computers and informatics | Major: Computer Science | Grade: very good. <br/>
+	Bachelor of Computers and informatics | Major: Bioinformatics | Grade: very good. <br/>
 	
  </h3>
 
@@ -29,6 +30,7 @@ sondos-hussien-4942a0210
 - [Network Attackers Classification](https://github.com/SondosMHussein/Network_Attackers_Classifications)
 	
 ### Natural Language Processing (NLP):
+- [End-to-End Speech Translation of Contemporary Egyptian Arabic Dialect](https://github.com/SondosMHussein/End_To_End_Speech_Translation_of_Egyptian_Arabic_Dialect/blob/main/README.md)
 - [TEXT CLASSIFICATION](https://github.com/SondosMHussein/TEXT_CLASSIFICATION)
 - [TEXT CLUSTERING](https://github.com/SondosMHussein/TEXT_CLUSTERING)
 - [Mental Health Assist and Diagnosis Conversational Interface](https://github.com/SondosMHussein/Mental_health_assist_and_diagnosis_conversational_interface)
